@@ -1,0 +1,2 @@
+# GitPots.github.io
+blogs
