@@ -1,0 +1,1 @@
+在Dockerfile里使用COPY命令，可以在修改其他文件，而package.json未修改的情况下，复用cache，优化效率
